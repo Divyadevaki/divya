@@ -6,11 +6,11 @@ Scanner sc=new Scanner(System.in);
    int a=sc.nextInt();
    if(a>=0){
        if(a>0){
-       System.out.println("number is positive");
+       System.out.println("positive");
    }else{
-       System.out.println("number is zero");
+       System.out.println("zero");
    }}else{
-       System.out.println("number is negative");
+       System.out.println("negative");
    }
    }
 }
